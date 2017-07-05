@@ -23,3 +23,10 @@ Note that for some exercises, it's best if Autonomous Life (the heart icon) is t
 For this exercise you will need NAOMarks 64 & 68, downloadable from the Aldebaran Documentation [here](http://doc.aldebaran.com/2-1/_downloads/NAOmark.pdf).
 
 After you run this program in Choregraphe, hold up NAOMark 64 or 68 in front of Pepper's camera. Pepper will perform the corresponding action.
+
+
+### Finite State Machine using Bumpers and LEDS
+
+This exercise uses Pepper's feet bumpers, eye LEDs and ear LEDs. There are four states stored.
+
+When you run the program, press Pepper's left or right bumpers. The state will change. For example, if you press Pepper's left foot bumper once, the eye LEDs will change to Pink, and the ear LEDs will stay lit up. If you press the left foot bumper again, the eye LEDs will stay pink, but the ear LEDs will turn off.
