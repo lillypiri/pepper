@@ -37,3 +37,8 @@ To edit the colours or intensity of the LEDs or to program it so the colours onl
 #### Rainbow Eyes 🌈👀
 
 Simple program that makes the LEDs in Pepper's eyes display rainbow.
+
+
+#### Engagement Zones
+
+Uses Pepper's engagement zones to recognise a person entering and leaving zones 1 & 2, and trigger a response. 
