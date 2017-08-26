@@ -2,6 +2,10 @@
 
 Simple programs you can use with Choregraphe Version 2.5.5.5 for getting started with Pepper robot. 🤖
 
+Some good resources to get started with Pepper are:
+[An Introduction to Robotics with Nao by Mike Beiter, Brian Coltin, Somchaya Leimhetcharat](http://www.kramirez.net/Robotica/Material/Nao/AnIntroductionToRoboticsWithNao_TextBook_2012_US.pdf) - (Nao uses Choregraphe too.)
+[NAOqi Developer guide](http://doc.aldebaran.com/2-5/index_dev_guide.html)
+
 
 #### How to use this repository
 
@@ -41,4 +45,4 @@ Simple program that makes the LEDs in Pepper's eyes display rainbow.
 
 #### Engagement Zones
 
-Uses Pepper's engagement zones to recognise a person entering and leaving zones 1 & 2, and trigger a response. 
+Uses Pepper's engagement zones to recognise a person entering and leaving zones 1 & 2, and trigger a response.
